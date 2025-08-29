@@ -8,17 +8,16 @@ resuelven problemas y superan obstáculos.
 El protagonista de esta aventura es Elara, un/a Pequeña y Curiosa Elfa de cabello negro y ojos Brillantes. Elara es una Aprendiz de maga  que ha sido elegido/a para una misión
 única: Restaurar el equilibrio numerico. Con su Lapiz magico que puede resolver cualquier problema matemático, Elara
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de Matematica.
+Los estudiantes avanzarán mediante un sistema de niveles y medallas. Cada nivel representa un nuevo concepto matemático (por ejemplo, la adición, la resta, etc.), 
+y los jugadores recibirán retroalimentación inmediata sobre su
 El jugador podrá Explorar los diferentes biomas(la selva de las sumas, el desierto de las restas, etc...), para avanzar deberá recolectar fragmentos numericos al resolver acertijos matemáticos y los desafíos
 incluirán problemas de logica, secuencias numericas y ecuaciones basicas.
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
-Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
-[CONCEPTO 2] a través de [ACTIVIDAD 2] y las evaluaciones se realizarán mediante
-[MÉTODO], lo que permitirá a los profesores y estudiantes medir el progreso de
+Los jugadores aprenderán la adición y la sustracción mediante minijuegos que implican recolectar o entregar objetos. Se reforzará
+la multiplicación y la división a través de desafíos de patrones y puzles numéricos y las evaluaciones se realizarán mediante
+cuestionarios interactivos al final de cada bioma, lo que permitirá a los profesores y estudiantes medir el progreso de
 manera efectiva.
-El juego se desarrollará usando [TECNOLOGÍA] y tendrá soporte para
-[PLATAFORMAS]. Además, se implementarán características como
-[CARACTERÍSTICAS TÉCNICAS ADICIONALES] para garantizar una experiencia de
+El juego se desarrollará usando Unity y tendrá soporte para
+dispositivos móviles (iOS y Android) y PC. Además, se implementarán características como
+guardado en la nube, para garantizar una experiencia de
 juego fluida y atractiva.
