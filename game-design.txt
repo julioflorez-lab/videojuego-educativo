@@ -1,19 +1,17 @@
-[NOMBRE DEL JUEGO] es un videojuego educativo diseñado para enseñar [MATERIA]
+Aventura Matematica es un videojuego educativo diseñado para enseñar Matematicas
 a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
-La historia se desarrolla en [ESCENARIO], un mundo lleno de misterios, desafíos y
+La historia se desarrolla en Aritmetica, un mundo lleno de misterios, desafíos y
 personajes fascinantes que guiarán a los jugadores en su aprendizaje. Cada nivel del
 juego está diseñado para combinar diversión y educación, permitiendo que los
 estudiantes adquieran conocimientos de manera natural mientras exploran,
 resuelven problemas y superan obstáculos.
-El protagonista de esta aventura es [NOMBRE], un/a [DESCRIPCIÓN FÍSICA Y DE
-PERSONALIDAD]. [NOMBRE] es un/a [ROL] que ha sido elegido/a para una misión
-única: [OBJETIVO PRINCIPAL]. Con su [CARACTERÍSTICA ESPECIAL], [NOMBRE]
+El protagonista de esta aventura es Elara, un/a Pequeña y Curiosa Elfa de cabello negro y ojos Brillantes. Elara es una Aprendiz de maga  que ha sido elegido/a para una misión
+única: Restaurar el equilibrio numerico. Con su Lapiz magico que puede resolver cualquier problema matemático, Elara
 deberá enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
-los jugadores conceptos clave de [MATERIA].
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
 Los estudiantes avanzarán mediante un sistema de niveles y medallas. Cada nivel representa un nuevo concepto matemático (por ejemplo, la adición, la resta, etc.), 
 y los jugadores recibirán retroalimentación inmediata sobre su
+El jugador podrá Explorar los diferentes biomas(la selva de las sumas, el desierto de las restas, etc...), para avanzar deberá recolectar fragmentos numericos al resolver acertijos matemáticos y los desafíos
+incluirán problemas de logica, secuencias numericas y ecuaciones basicas.
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán la adición y la sustracción mediante minijuegos que implican recolectar o entregar objetos. Se reforzará
 la multiplicación y la división a través de desafíos de patrones y puzles numéricos y las evaluaciones se realizarán mediante
